@@ -1,2 +1,4 @@
 # custom-archiso
-with networkmanager installed
+*with networkmanager installed.
+*graphical environment.
+*install it just like the vanilla arch.
